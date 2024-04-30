@@ -1,4 +1,4 @@
-<span style="font-size:0.5em;">Hi there! I'm Elena,</span>
+<span style="font-size:2em;">Hi there! I'm Elena,</span>
 
 👋 Hi there! I'm Elena,
 
